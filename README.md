@@ -20,6 +20,46 @@ To get the pattern to display as it used to display on the original domain, type
 :hamsterdance-1: :hamsterdance-1: :hamsterdance-1: :hamsterdance-1: :hamsterdance-1: :hamsterdance-1: :hamsterdance-1: :hamsterdance-1:
 ```
 
+This will result in:
+
+![hamster](http://i.imgur.com/AMRIBK4.gif) ![hamster](http://i.imgur.com/AMRIBK4.gif) ![hamster](http://i.imgur.com/AMRIBK4.gif) ![hamster](http://i.imgur.com/AMRIBK4.gif) ![hamster](http://i.imgur.com/AMRIBK4.gif) ![hamster](http://i.imgur.com/AMRIBK4.gif) ![hamster](http://i.imgur.com/AMRIBK4.gif) ![hamster](http://i.imgur.com/AMRIBK4.gif) ![hamster](http://i.imgur.com/AMRIBK4.gif)
+
+![hamster](http://i.imgur.com/kHjFlfD.gif)
+![hamster](http://i.imgur.com/kHjFlfD.gif)
+![hamster](http://i.imgur.com/kHjFlfD.gif)
+![hamster](http://i.imgur.com/kHjFlfD.gif)
+![hamster](http://i.imgur.com/kHjFlfD.gif)
+![hamster](http://i.imgur.com/kHjFlfD.gif)
+![hamster](http://i.imgur.com/kHjFlfD.gif)
+![hamster](http://i.imgur.com/kHjFlfD.gif)
+
+![hamster](http://i.imgur.com/AMRIBK4.gif) ![hamster](http://i.imgur.com/AMRIBK4.gif) ![hamster](http://i.imgur.com/AMRIBK4.gif) ![hamster](http://i.imgur.com/AMRIBK4.gif) ![hamster](http://i.imgur.com/AMRIBK4.gif) ![hamster](http://i.imgur.com/AMRIBK4.gif) ![hamster](http://i.imgur.com/AMRIBK4.gif) ![hamster](http://i.imgur.com/AMRIBK4.gif) ![hamster](http://i.imgur.com/AMRIBK4.gif)
+
+![hamster](http://i.imgur.com/CdiNc3Z.gif)
+![hamster](http://i.imgur.com/CdiNc3Z.gif)
+![hamster](http://i.imgur.com/CdiNc3Z.gif)
+![hamster](http://i.imgur.com/CdiNc3Z.gif)
+![hamster](http://i.imgur.com/CdiNc3Z.gif)
+![hamster](http://i.imgur.com/CdiNc3Z.gif)
+![hamster](http://i.imgur.com/CdiNc3Z.gif)
+![hamster](http://i.imgur.com/CdiNc3Z.gif)
+
+![hamster](http://i.imgur.com/AMRIBK4.gif) ![hamster](http://i.imgur.com/AMRIBK4.gif) ![hamster](http://i.imgur.com/AMRIBK4.gif) ![hamster](http://i.imgur.com/AMRIBK4.gif) ![hamster](http://i.imgur.com/AMRIBK4.gif) ![hamster](http://i.imgur.com/AMRIBK4.gif) ![hamster](http://i.imgur.com/AMRIBK4.gif) ![hamster](http://i.imgur.com/AMRIBK4.gif) ![hamster](http://i.imgur.com/AMRIBK4.gif)
+
+![hamster](http://i.imgur.com/dDMPmI4.gif)
+![hamster](http://i.imgur.com/dDMPmI4.gif)
+![hamster](http://i.imgur.com/dDMPmI4.gif)
+![hamster](http://i.imgur.com/dDMPmI4.gif)
+![hamster](http://i.imgur.com/dDMPmI4.gif)
+![hamster](http://i.imgur.com/dDMPmI4.gif)
+![hamster](http://i.imgur.com/dDMPmI4.gif)
+![hamster](http://i.imgur.com/dDMPmI4.gif)
+
+![hamster](http://i.imgur.com/AMRIBK4.gif) ![hamster](http://i.imgur.com/AMRIBK4.gif) ![hamster](http://i.imgur.com/AMRIBK4.gif) ![hamster](http://i.imgur.com/AMRIBK4.gif) ![hamster](http://i.imgur.com/AMRIBK4.gif) ![hamster](http://i.imgur.com/AMRIBK4.gif) ![hamster](http://i.imgur.com/AMRIBK4.gif) ![hamster](http://i.imgur.com/AMRIBK4.gif) ![hamster](http://i.imgur.com/AMRIBK4.gif)
+
+(The actual image displayed in Slack will be automatically sized correctly so they look more balanced.)
+
+![heheh](http://i.imgur.com/rOE8Id5.png)
 
 # License (MIT)
 ```
