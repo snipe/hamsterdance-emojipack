@@ -1,4 +1,4 @@
-# Hampsterdance Emojipack
+# Hamsterdance Emojipack
 
 This is an emojipack designed to be used with the fantastic [Slack emojipack importer](https://github.com/lambtron/emojipacks) CLI tool by the fabulous [lambtron](https://github.com/lambtron), which will import the individual hamster animations from the internet classic website `hampsterdance.com` .
 
